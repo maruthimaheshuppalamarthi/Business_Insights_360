@@ -65,25 +65,20 @@
 ---
 
 ## 🖼️ Preview
-
 ### 🔹 Finance View
 ![Finance View](Finance%20view.gif)
 
-
 ### 🔹 Sales View
-![Sales View](Sales%20view.gif)
-
+![Sales View](Sales%20View.gif)
 
 ### 🔹 Marketing View
-![Marketing View](Marketing%20View.gif)
-
+![Marketing View](Marketing%20view.gif)
 
 ### 🔹 Supplychain View
-![Supplychain View](Supplychain%20view.gif)
-
+![Supplychain View](Supply%20chain%20View.gif)
 
 ### 🔹 Stakeholder View
-![Stakeholder View](Stakeholder%20view.gif)
+![Stakeholder View](Stakeholder%20Request.gif)
 
 
 
